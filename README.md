@@ -15,8 +15,8 @@ This project was developed by the following members as part of the Introduction 
 
 1.   Simulating Film Grain using the Noise-Power Spectrum
 
-![alt text](https://github.com/arturpescador/IMA201/blob/fa9e66b6a40660a8c77e688ed8f7eddb2d167981/Project/results/1.png)
+![alt text](https://github.com/arturpescador/film-grain-simulation/blob/main/results/1.png)
 
 2.   Stochastic Film Grain Model
 
-![alt text](https://github.com/arturpescador/IMA201/blob/fa9e66b6a40660a8c77e688ed8f7eddb2d167981/Project/results/stochastic-film-grain_model-result.png)
+![alt text](https://github.com/arturpescador/film-grain-simulation/blob/main/results/stochastic-film-grain_model-result.png)
