@@ -1,6 +1,4 @@
-# Project
-
-### Film Grain 
+# Film Grain Simulation
 
 ## Project Description
 
